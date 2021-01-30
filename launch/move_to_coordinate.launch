@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="agv_assignment" type="move_to_coordinate.py" name="move_to_coordinate"  output="screen">
+  </node>
+</launch>
