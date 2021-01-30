@@ -17,7 +17,7 @@
       <uri>model://ground_plane</uri>
     </include>
 
-	  <!-- Square walls 5x5 -->
+    <!-- Square walls 5x5 -->
     <include>
       <uri>model://square_wall_5x5</uri>
       <pose>-2.5 2.5 0 0 0 0</pose>
