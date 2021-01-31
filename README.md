@@ -1,4 +1,4 @@
-# AGV Assignment Part 1
+# Part 1 - AGV Movement Simulation
 This is an assignment for my Industrial Automation course. The detials to recreate this project is at below.
 
 ## Prerequisite
