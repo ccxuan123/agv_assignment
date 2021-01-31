@@ -72,7 +72,7 @@ class GotoPoint():
         self.move_to_point(self.position.x, goal_y2)
         self.move_to_point(goal_x2, goal_y2)
         #self.rotate_to_point(goal_z2)
-        rospy.loginfo("Second loaction reached!")
+        rospy.loginfo("Second location reached!")
         rospy.loginfo("Stop for 5 seconds...")
         time.sleep(5)
         rospy.loginfo('Moving back to charger')
